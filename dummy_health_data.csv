@@ -1,0 +1,51 @@
+user_id,date,steps,calories_burned,distance_km,active_minutes,sleep_hours,heart_rate_avg,workout_type,weather_conditions,location,mood
+694,01/15/2023,12149,2267.09,13.97,314,8.7,124,Cycling,Rain,Home,Tired
+449,02/14/2023,11830,1511.13,16.77,545,4.9,127,Swimming,Rain,Park,Tired
+129,02/10/2023,14984,1713.24,8.72,1272,10.5,123,Walking,Fog,Office,Stressed
+860,02/16/2023,20174,2195.9,16.15,465,1.9,102,Gym Workout,Clear,Home,Stressed
+129,01/06/2023,20936,3536.57,16.94,374,7.4,102,Cycling,Snow,Home,Neutral
+846,01/17/2023,21163,2868.74,14.79,1106,7.8,150,Cycling,Rain,Office,Neutral
+353,02/04/2023,23777,2305.82,6.9,576,2.8,169,Running,Clear,Park,Tired
+256,01/16/2023,6147,1814.67,19.99,1178,5.0,87,Running,Clear,Home,Tired
+206,01/24/2023,20224,2442.62,12.97,1289,11.7,115,Gym Workout,Fog,Home,Tired
+598,01/25/2023,23093,2618.91,9.51,561,11.1,79,Cycling,Clear,Office,Tired
+256,01/24/2023,16721,2790.52,3.41,1101,11.2,171,Swimming,Clear,Gym,Happy
+355,01/08/2023,15240,2695.0,12.38,923,3.4,114,Walking,Snow,Home,Tired
+281,02/13/2023,17355,3482.71,17.06,673,7.8,156,Swimming,Rain,Home,Tired
+488,01/07/2023,6648,3386.37,18.99,590,1.8,150,Walking,Fog,Gym,Happy
+212,01/27/2023,23630,2500.05,19.4,1168,3.8,107,Gym Workout,Clear,Gym,Happy
+846,02/02/2023,2626,2053.51,18.35,974,2.9,163,Cycling,Clear,Park,Happy
+456,01/17/2023,23315,3834.33,8.51,723,5.1,158,Walking,Snow,Office,Stressed
+529,01/15/2023,23126,2068.28,9.7,601,6.9,100,Gym Workout,Rain,Gym,Neutral
+416,02/15/2023,27749,2924.21,16.6,846,3.2,178,Running,Clear,Gym,Stressed
+842,02/06/2023,11240,3685.74,2.23,410,6.4,118,Cycling,Fog,Park,Stressed
+187,01/04/2023,12249,3487.43,14.47,1264,1.2,126,Swimming,Fog,Home,Stressed
+868,01/11/2023,10870,1765.74,14.84,1309,7.3,158,Swimming,Rain,Home,Tired
+829,01/27/2023,18805,3076.02,19.57,299,9.0,141,Swimming,Rain,Office,Stressed
+244,01/05/2023,11376,2598.9,8.65,993,10.8,93,Walking,Fog,Office,Tired
+244,01/17/2023,26989,3228.37,12.26,338,8.0,87,Gym Workout,Fog,Office,Neutral
+132,01/08/2023,26304,2673.92,13.0,1317,1.4,67,Yoga,Fog,Home,Happy
+218,02/14/2023,29784,1624.68,5.93,1492,2.9,128,Cycling,Clear,Home,Stressed
+129,02/13/2023,13675,2251.22,6.53,496,6.6,167,Yoga,Clear,Gym,Happy
+482,02/03/2023,22654,3669.32,12.56,996,1.7,128,Walking,Snow,Home,Tired
+456,02/17/2023,18072,3099.01,14.06,273,9.0,98,Walking,Clear,Gym,Stressed
+300,01/04/2023,21241,3634.54,10.64,176,2.2,176,Running,Clear,Office,Happy
+868,01/07/2023,10147,1875.2,1.12,1463,9.1,169,Walking,Clear,Park,Neutral
+598,01/15/2023,10301,2225.76,11.35,1305,4.7,131,Running,Snow,Home,Stressed
+281,01/22/2023,23737,3083.65,18.79,853,10.5,77,Walking,Fog,Gym,Neutral
+449,01/09/2023,18332,2995.48,15.58,131,2.0,131,Running,Rain,Office,Happy
+651,01/31/2023,21546,3324.71,11.75,577,11.4,117,Walking,Clear,Office,Neutral
+218,01/29/2023,24315,1936.9,2.21,1441,8.0,66,Walking,Clear,Home,Happy
+144,01/31/2023,29911,3004.51,3.3,1165,6.8,89,Cycling,Fog,Office,Tired
+948,02/01/2023,8339,3658.65,12.91,429,10.9,157,Cycling,Clear,Home,Tired
+860,01/11/2023,28207,2821.49,13.63,1043,7.4,111,Cycling,Fog,Home,Tired
+871,01/23/2023,8006,2327.51,1.0,1063,6.4,104,Swimming,Snow,Home,Happy
+125,01/22/2023,29211,2895.6,8.85,900,6.3,86,Walking,Rain,Gym,Stressed
+868,01/13/2023,1613,3032.87,3.31,229,10.3,103,Running,Clear,Home,Happy
+416,02/05/2023,3635,3898.87,5.52,590,4.6,171,Swimming,Fog,Gym,Tired
+129,01/08/2023,4465,3186.14,5.45,600,3.4,123,Running,Rain,Office,Tired
+734,01/04/2023,16928,2688.55,15.46,1056,8.6,174,Walking,Rain,Home,Tired
+449,01/17/2023,21000,2095.33,13.13,485,8.8,119,Running,Rain,Gym,Happy
+766,01/12/2023,18171,1674.86,15.78,858,8.1,81,Yoga,Rain,Home,Stressed
+835,02/17/2023,29280,2516.89,3.72,994,8.2,157,Cycling,Rain,Office,Tired
+265,01/24/2023,12880,3772.59,4.21,1490,7.8,98,Yoga,Snow,Gym,Tired
